@@ -1,0 +1,9 @@
+{
+  "name": "drop",
+  "version": "1.0.0",
+  "description": "Drag and drop, page will work.",
+  "main": "index.js",
+  "repository": "git@github.com:d3f1/drop.git",
+  "author": "Mos <acwzy@live.com>",
+  "license": "MIT"
+}
